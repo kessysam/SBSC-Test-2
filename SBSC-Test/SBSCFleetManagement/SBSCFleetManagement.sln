@@ -1,0 +1,86 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{505799CE-1B12-461C-AD24-5A51EA4736E6}"
+	ProjectSection(SolutionItems) = preProject
+		TechnicalAdvice.txt = TechnicalAdvice.txt
+		UserStories.txt = UserStories.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{A789433B-219D-4777-8224-FFE62224F0E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{01AFA434-59FE-4A9F-9ACC-F6F2BE9DDE5C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{7B663BDA-B9BF-419A-980C-28095B3C5233}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBSCFleetManagement.Api", "SBSCFleetManagement.Api\SBSCFleetManagement.Api.csproj", "{20FA6DB1-5C24-4A2D-B9F0-0B99BAE105D9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{F6B26776-352A-4D33-BC61-C2A3DB22E914}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{90E26CC4-BC76-46F2-83F8-B6DB93CAC507}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{9E6B2B8B-AA97-4E3E-969E-D5C675A84A52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBSCFleetManagement.Persistence", "SBSCFleetManagement.Persistence\SBSCFleetManagement.Persistence.csproj", "{73C347B9-1FCC-4DAA-A737-DA78DB608595}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBSCFleetManagement.Security", "SBSCFleetManagement.Security\SBSCFleetManagement.Security.csproj", "{224A4893-EFED-4EB9-A4B4-3659B1C5886C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBSCFleetManagement.Application", "SBSCFleetManagement.Application\SBSCFleetManagement.Application.csproj", "{25D959AF-498D-48FD-9D18-B0D205A1CCC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBSCFleetManagement.Domain", "SBSCFleetManagement.Domain\SBSCFleetManagement.Domain.csproj", "{2EF1A108-34FB-44F2-9E04-EBEEBCC4039B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBSCFleetManagement.Common", "SBSCFleetManagement.Common\SBSCFleetManagement.Common.csproj", "{8799899D-6D4E-43F9-A048-15A88426445E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20FA6DB1-5C24-4A2D-B9F0-0B99BAE105D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20FA6DB1-5C24-4A2D-B9F0-0B99BAE105D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20FA6DB1-5C24-4A2D-B9F0-0B99BAE105D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20FA6DB1-5C24-4A2D-B9F0-0B99BAE105D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73C347B9-1FCC-4DAA-A737-DA78DB608595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73C347B9-1FCC-4DAA-A737-DA78DB608595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73C347B9-1FCC-4DAA-A737-DA78DB608595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73C347B9-1FCC-4DAA-A737-DA78DB608595}.Release|Any CPU.Build.0 = Release|Any CPU
+		{224A4893-EFED-4EB9-A4B4-3659B1C5886C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{224A4893-EFED-4EB9-A4B4-3659B1C5886C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{224A4893-EFED-4EB9-A4B4-3659B1C5886C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{224A4893-EFED-4EB9-A4B4-3659B1C5886C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25D959AF-498D-48FD-9D18-B0D205A1CCC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25D959AF-498D-48FD-9D18-B0D205A1CCC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25D959AF-498D-48FD-9D18-B0D205A1CCC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25D959AF-498D-48FD-9D18-B0D205A1CCC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EF1A108-34FB-44F2-9E04-EBEEBCC4039B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EF1A108-34FB-44F2-9E04-EBEEBCC4039B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EF1A108-34FB-44F2-9E04-EBEEBCC4039B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EF1A108-34FB-44F2-9E04-EBEEBCC4039B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8799899D-6D4E-43F9-A048-15A88426445E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8799899D-6D4E-43F9-A048-15A88426445E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8799899D-6D4E-43F9-A048-15A88426445E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8799899D-6D4E-43F9-A048-15A88426445E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7B663BDA-B9BF-419A-980C-28095B3C5233} = {A789433B-219D-4777-8224-FFE62224F0E8}
+		{20FA6DB1-5C24-4A2D-B9F0-0B99BAE105D9} = {7B663BDA-B9BF-419A-980C-28095B3C5233}
+		{F6B26776-352A-4D33-BC61-C2A3DB22E914} = {A789433B-219D-4777-8224-FFE62224F0E8}
+		{90E26CC4-BC76-46F2-83F8-B6DB93CAC507} = {A789433B-219D-4777-8224-FFE62224F0E8}
+		{9E6B2B8B-AA97-4E3E-969E-D5C675A84A52} = {A789433B-219D-4777-8224-FFE62224F0E8}
+		{73C347B9-1FCC-4DAA-A737-DA78DB608595} = {9E6B2B8B-AA97-4E3E-969E-D5C675A84A52}
+		{224A4893-EFED-4EB9-A4B4-3659B1C5886C} = {9E6B2B8B-AA97-4E3E-969E-D5C675A84A52}
+		{25D959AF-498D-48FD-9D18-B0D205A1CCC3} = {90E26CC4-BC76-46F2-83F8-B6DB93CAC507}
+		{2EF1A108-34FB-44F2-9E04-EBEEBCC4039B} = {90E26CC4-BC76-46F2-83F8-B6DB93CAC507}
+		{8799899D-6D4E-43F9-A048-15A88426445E} = {F6B26776-352A-4D33-BC61-C2A3DB22E914}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E999CEAE-1744-4E8D-A130-E7222A0A207D}
+	EndGlobalSection
+EndGlobal
+# SBSC-Test

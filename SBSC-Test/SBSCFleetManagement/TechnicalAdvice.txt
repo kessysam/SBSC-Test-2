@@ -1,0 +1,5 @@
+﻿Technical advice that should be considered as follows.
+
+=>  For tracking, trips data, and informations, IOT device
+	should be used for this application.
+=>  This IOT devices will be embedded in all  fleets.

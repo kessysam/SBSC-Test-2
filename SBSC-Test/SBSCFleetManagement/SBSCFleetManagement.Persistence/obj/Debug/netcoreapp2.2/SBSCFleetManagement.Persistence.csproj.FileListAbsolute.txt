@@ -1,0 +1,9 @@
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Persistence\bin\Debug\netcoreapp2.2\SBSCFleetManagement.Persistence.deps.json
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Persistence\bin\Debug\netcoreapp2.2\SBSCFleetManagement.Persistence.dll
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Persistence\bin\Debug\netcoreapp2.2\SBSCFleetManagement.Persistence.pdb
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Persistence\obj\Debug\netcoreapp2.2\SBSCFleetManagement.Persistence.csprojAssemblyReference.cache
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Persistence\obj\Debug\netcoreapp2.2\SBSCFleetManagement.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Persistence\obj\Debug\netcoreapp2.2\SBSCFleetManagement.Persistence.AssemblyInfoInputs.cache
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Persistence\obj\Debug\netcoreapp2.2\SBSCFleetManagement.Persistence.AssemblyInfo.cs
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Persistence\obj\Debug\netcoreapp2.2\SBSCFleetManagement.Persistence.dll
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Persistence\obj\Debug\netcoreapp2.2\SBSCFleetManagement.Persistence.pdb

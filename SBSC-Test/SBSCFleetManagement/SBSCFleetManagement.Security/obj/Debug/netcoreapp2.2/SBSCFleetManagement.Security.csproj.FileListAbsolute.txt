@@ -1,0 +1,9 @@
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Security\bin\Debug\netcoreapp2.2\SBSCFleetManagement.Security.deps.json
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Security\bin\Debug\netcoreapp2.2\SBSCFleetManagement.Security.dll
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Security\bin\Debug\netcoreapp2.2\SBSCFleetManagement.Security.pdb
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Security\obj\Debug\netcoreapp2.2\SBSCFleetManagement.Security.csprojAssemblyReference.cache
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Security\obj\Debug\netcoreapp2.2\SBSCFleetManagement.Security.csproj.CoreCompileInputs.cache
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Security\obj\Debug\netcoreapp2.2\SBSCFleetManagement.Security.AssemblyInfoInputs.cache
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Security\obj\Debug\netcoreapp2.2\SBSCFleetManagement.Security.AssemblyInfo.cs
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Security\obj\Debug\netcoreapp2.2\SBSCFleetManagement.Security.dll
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Security\obj\Debug\netcoreapp2.2\SBSCFleetManagement.Security.pdb

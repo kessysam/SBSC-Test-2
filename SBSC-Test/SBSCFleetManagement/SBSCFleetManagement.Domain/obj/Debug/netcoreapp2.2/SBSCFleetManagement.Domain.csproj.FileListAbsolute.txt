@@ -1,0 +1,12 @@
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Domain\obj\Debug\netcoreapp2.2\SBSCFleetManagement.Domain.csprojAssemblyReference.cache
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Domain\obj\Debug\netcoreapp2.2\SBSCFleetManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Domain\obj\Debug\netcoreapp2.2\SBSCFleetManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Domain\obj\Debug\netcoreapp2.2\SBSCFleetManagement.Domain.AssemblyInfo.cs
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Domain\bin\Debug\netcoreapp2.2\SBSCFleetManagement.Domain.deps.json
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Domain\bin\Debug\netcoreapp2.2\SBSCFleetManagement.Domain.dll
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Domain\bin\Debug\netcoreapp2.2\SBSCFleetManagement.Domain.pdb
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Domain\bin\Debug\netcoreapp2.2\SBSCFleetManagement.Common.dll
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Domain\bin\Debug\netcoreapp2.2\SBSCFleetManagement.Common.pdb
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Domain\obj\Debug\netcoreapp2.2\SBSCFleetManagement.Domain.csproj.CopyComplete
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Domain\obj\Debug\netcoreapp2.2\SBSCFleetManagement.Domain.dll
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Domain\obj\Debug\netcoreapp2.2\SBSCFleetManagement.Domain.pdb

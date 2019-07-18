@@ -1,0 +1,14 @@
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Api\bin\Debug\netcoreapp2.2\SBSCFleetManagement.Api.deps.json
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Api\bin\Debug\netcoreapp2.2\SBSCFleetManagement.Api.runtimeconfig.json
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Api\bin\Debug\netcoreapp2.2\SBSCFleetManagement.Api.runtimeconfig.dev.json
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Api\bin\Debug\netcoreapp2.2\SBSCFleetManagement.Api.dll
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Api\bin\Debug\netcoreapp2.2\SBSCFleetManagement.Api.pdb
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Api\obj\Debug\netcoreapp2.2\SBSCFleetManagement.Api.csprojAssemblyReference.cache
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Api\obj\Debug\netcoreapp2.2\SBSCFleetManagement.Api.csproj.CoreCompileInputs.cache
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Api\obj\Debug\netcoreapp2.2\SBSCFleetManagement.Api.RazorAssemblyInfo.cache
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Api\obj\Debug\netcoreapp2.2\SBSCFleetManagement.Api.RazorAssemblyInfo.cs
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Api\obj\Debug\netcoreapp2.2\SBSCFleetManagement.Api.AssemblyInfoInputs.cache
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Api\obj\Debug\netcoreapp2.2\SBSCFleetManagement.Api.AssemblyInfo.cs
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Api\obj\Debug\netcoreapp2.2\SBSCFleetManagement.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Api\obj\Debug\netcoreapp2.2\SBSCFleetManagement.Api.dll
+C:\Users\Sattrak\Desktop\kessy\Codes\SBSCFleetManagement\SBSCFleetManagement.Api\obj\Debug\netcoreapp2.2\SBSCFleetManagement.Api.pdb

@@ -1,0 +1,49 @@
+﻿USER STORIES
+
+1. Public Users
+=> As a public user, I can register on the platform. *
+=> As a public user, I can login on the platform. *
+=> As a public user, I can view my profile. *
+=> As a public user, I can edit my profile. *
+=> As a public user, I can view fleet trips. 
+=> As a public user, I can request a trip.
+
+
+2. Fleet Manager
+=> As a fleet manager, I can create a fleet. *
+=> As a fleet manager, I can view a fleet. *
+=> As a fleet manager, I can edit a fleet. *
+=> As a fleet manager, I can delete a fleet. *
+=> As a fleet manager, I can create a driver. *
+=> As a fleet manager, I can view a driver. *
+=> As a fleet manager, I can edit a driver. *
+=> As a fleet manager, I can delete a driver. *
+=> As a fleet manager, I can view public user trip request. 
+=> As a fleet manager, I can assign vehicle and driver to a trip request.
+=> As a fleet manager, I can view life trip data
+=> As a fleet manager, the data i can view are not limited to fuel consumption,
+   speed, vehicle temprature, amount of time vehicle stops, trip duration, trip incidence if any.
+
+
+3. Drivers
+=> As a driver, I can view trip assignment, or details.
+=> As a driver, I can view trip start time.
+=> As a driver, I can view trip expected end time.
+=> As a driver, I can view any trip updates.
+=> As a driver, I can alert trip incidence as they occur.
+
+
+4. Incident Manager
+=> As an incident manager, I can view trip incident report.
+=> As an incident manager, I can view life trip.
+=> As an incident manager, I can configure automated incident a driver a choose or alert from.
+=> As an incident manager, I can confugre sensor readings that will raise an incidence.
+
+
+
+
+
+
+
+
+

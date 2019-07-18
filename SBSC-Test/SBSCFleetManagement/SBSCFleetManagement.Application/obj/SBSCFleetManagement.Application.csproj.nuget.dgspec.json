@@ -1,0 +1,243 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Sattrak\\Desktop\\kessy\\Codes\\SBSCFleetManagement\\SBSCFleetManagement.Application\\SBSCFleetManagement.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Sattrak\\Desktop\\kessy\\Codes\\SBSCFleetManagement\\SBSCFleetManagement.Application\\SBSCFleetManagement.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sattrak\\Desktop\\kessy\\Codes\\SBSCFleetManagement\\SBSCFleetManagement.Application\\SBSCFleetManagement.Application.csproj",
+        "projectName": "SBSCFleetManagement.Application",
+        "projectPath": "C:\\Users\\Sattrak\\Desktop\\kessy\\Codes\\SBSCFleetManagement\\SBSCFleetManagement.Application\\SBSCFleetManagement.Application.csproj",
+        "packagesPath": "C:\\Users\\Sattrak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sattrak\\Desktop\\kessy\\Codes\\SBSCFleetManagement\\SBSCFleetManagement.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sattrak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Sattrak\\Desktop\\kessy\\Codes\\SBSCFleetManagement\\SBSCFleetManagement.Domain\\SBSCFleetManagement.Domain.csproj": {
+                "projectPath": "C:\\Users\\Sattrak\\Desktop\\kessy\\Codes\\SBSCFleetManagement\\SBSCFleetManagement.Domain\\SBSCFleetManagement.Domain.csproj"
+              },
+              "C:\\Users\\Sattrak\\Desktop\\kessy\\Codes\\SBSCFleetManagement\\SBSCFleetManagement.Persistence\\SBSCFleetManagement.Persistence.csproj": {
+                "projectPath": "C:\\Users\\Sattrak\\Desktop\\kessy\\Codes\\SBSCFleetManagement\\SBSCFleetManagement.Persistence\\SBSCFleetManagement.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Sattrak\\Desktop\\kessy\\Codes\\SBSCFleetManagement\\SBSCFleetManagement.Common\\SBSCFleetManagement.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sattrak\\Desktop\\kessy\\Codes\\SBSCFleetManagement\\SBSCFleetManagement.Common\\SBSCFleetManagement.Common.csproj",
+        "projectName": "SBSCFleetManagement.Common",
+        "projectPath": "C:\\Users\\Sattrak\\Desktop\\kessy\\Codes\\SBSCFleetManagement\\SBSCFleetManagement.Common\\SBSCFleetManagement.Common.csproj",
+        "packagesPath": "C:\\Users\\Sattrak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sattrak\\Desktop\\kessy\\Codes\\SBSCFleetManagement\\SBSCFleetManagement.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sattrak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Sattrak\\Desktop\\kessy\\Codes\\SBSCFleetManagement\\SBSCFleetManagement.Domain\\SBSCFleetManagement.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sattrak\\Desktop\\kessy\\Codes\\SBSCFleetManagement\\SBSCFleetManagement.Domain\\SBSCFleetManagement.Domain.csproj",
+        "projectName": "SBSCFleetManagement.Domain",
+        "projectPath": "C:\\Users\\Sattrak\\Desktop\\kessy\\Codes\\SBSCFleetManagement\\SBSCFleetManagement.Domain\\SBSCFleetManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\Sattrak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sattrak\\Desktop\\kessy\\Codes\\SBSCFleetManagement\\SBSCFleetManagement.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sattrak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Sattrak\\Desktop\\kessy\\Codes\\SBSCFleetManagement\\SBSCFleetManagement.Common\\SBSCFleetManagement.Common.csproj": {
+                "projectPath": "C:\\Users\\Sattrak\\Desktop\\kessy\\Codes\\SBSCFleetManagement\\SBSCFleetManagement.Common\\SBSCFleetManagement.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Sattrak\\Desktop\\kessy\\Codes\\SBSCFleetManagement\\SBSCFleetManagement.Persistence\\SBSCFleetManagement.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sattrak\\Desktop\\kessy\\Codes\\SBSCFleetManagement\\SBSCFleetManagement.Persistence\\SBSCFleetManagement.Persistence.csproj",
+        "projectName": "SBSCFleetManagement.Persistence",
+        "projectPath": "C:\\Users\\Sattrak\\Desktop\\kessy\\Codes\\SBSCFleetManagement\\SBSCFleetManagement.Persistence\\SBSCFleetManagement.Persistence.csproj",
+        "packagesPath": "C:\\Users\\Sattrak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sattrak\\Desktop\\kessy\\Codes\\SBSCFleetManagement\\SBSCFleetManagement.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sattrak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
